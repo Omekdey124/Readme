@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>"Profile" - XIRPL2/16</title>
+</head>
+<body>
+	
+	<h1>PROFILE</h1>
+	
+	<table>
+		<tr>
+			<td rowspan="6"><img src="Database/Profile.JPG"></td>
+
+			<td>Name</td>
+			<td>: I Made Dedy Setiawan</td>
+		</tr>
+		<tr>
+			<td>Class</td>
+			<td>: XI RPL 2</td>
+		</tr>
+		<tr>
+			<td>No.</td>
+			<td>: 16</td>
+		</tr>
+		<tr>
+			<td>Email</td>
+			<td>: isetiawan071@smk.belajar.id</td>
+		</tr>
+		<tr>
+			<td>Contact</td>
+			<td>: 081915837857</td>
+		</tr>
+		<tr>
+			<td>Hobby</td>
+			<td>: badminton & wacthing a movie</td>
+		</tr>
+	</table>
+	
+</body>
+</html>
